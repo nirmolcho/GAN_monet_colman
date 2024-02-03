@@ -6,6 +6,13 @@
 ![RandomNormal Initializer](https://img.shields.io/badge/RandomNormal-Initializer-blue?style=for-the-badge "RandomNormal Initializer")
 ![ImageDataGenerator](https://img.shields.io/badge/ImageDataGenerator-Preprocessing-blue?style=for-the-badge "ImageDataGenerator")
 
+<p align="center">
+  <img src="https://github.com/nirmolcho.png?size=100" width="100" style="border-radius: 50%;" alt="Contributor 1">
+  <img src="https://github.com/royzohar2.png?size=100" width="100" style="border-radius: 50%;" alt="Contributor 2">
+  <img src="https://github.com/Seanlavi.png?size=100" width="100" style="border-radius: 50%;" alt="Contributor 3">
+</p>
+
+
 
 ## Overview
 This project focuses on implementing a Cycle-GAN using Python and the TensorFlow Keras platform. It challenges you to explore deep learning (DL) concepts by developing and training models from scratch, emphasizing the practical application of the theories and techniques learned in the course. 
@@ -37,3 +44,6 @@ This project focuses on implementing a Cycle-GAN using Python and the TensorFlow
 - Share your notebook via Google Drive, accessible to anyone with the link.
 
 Adhering to these guidelines will ensure a thorough understanding of DL concepts and their practical application, demonstrating your ability to develop complex models from scratch.
+
+
+
