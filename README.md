@@ -18,6 +18,7 @@
 This project focuses on implementing a Cycle-GAN using Python and the TensorFlow Keras platform. It challenges you to explore deep learning (DL) concepts by developing and training models from scratch, emphasizing the practical application of the theories and techniques learned in the course. 
 
 ## Requirements
+1. **Python dependensis:** pip install -r requirements.txt
 1. **Platform:** Utilize Python and TensorFlow Keras for all implementations.
 2. **Submission:** Alongside your Kaggle competition submission, provide two Google Colab notebooks: one for the training phase and another for the testing environment. The training notebook must document various experiments conducted during the development process.
 3. **Implementation:** Your task is to implement a Cycle-GAN architecture. Within this architecture, one discriminator must be a Patch-GAN with a receptive field size different from 70x70. The architecture submitted to the Kaggle competition will represent your best model.
