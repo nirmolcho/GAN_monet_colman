@@ -10,6 +10,22 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../College of manegment projects/2nd year/Fundamentals of data science/lesson 1/.idea/lesson 1.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/opt/anaconda3/lib/python3.9/site-packages (1.7.3) /bin/Python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../College of manegment projects/2nd year/Fundamentals of data science/task number 1/.idea/task number 1.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/.conda/envs/Desktop/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../College of manegment projects/2nd year/Fundamentals of data science/lesson 1/.idea/lesson 1.iml">
           <value>
             <JupyterConnectionParameters>
